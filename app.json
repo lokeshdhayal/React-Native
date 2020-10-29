@@ -1,0 +1,12 @@
+{
+  "name": "LokeshD",
+  "displayName": "LokeshD",
+  "expo": {
+    "name": "LokeshD",
+    "slug": "LokeshD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
